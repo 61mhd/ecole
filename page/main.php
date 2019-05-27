@@ -1,0 +1,1 @@
+<?php echo ("Vous étes sur l'acceuil de LYCEE d'EXCELLENCE de DAKAR ."); ?>
